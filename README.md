@@ -16,5 +16,15 @@ ________________________________________________________________________________
 At first I had no idea how to approach putting objects with specific attribtes in a vector. I realized structuring the program this way changed how the getters and setters work for the objects in the vector. I needed the GetYear and AddYear AllYearInvestmentYears class functions to be able to access the objects in the vector, but the objects in the vector were of the YearlyInvestmentCalculations class. The logic ended up being referencing the YearlyInvestmentCalculations object that were stored in the container (AllYearInvestment vector). 
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 ### Transferable Skills:<br>
-I think working with vectors and being able to have vectors of different class objects communicate across classes will be extremely useful in the future. Starting with getting an mvp (minimum viable product) will be something I carry with me as I grow as a developer. Integrating modular development and keeping progress contained and organized will be a great benefit to future projects.  
+I think working with vectors and being able to have vectors of different class objects communicate across classes will be extremely useful in the future. Starting with getting an mvp (minimum viable product) will be something I carry with me as I grow as a developer. Integrating modular development and keeping progress contained and organized will be a great benefit to future projects. 
+______________________________________________________________________________________________________________________________________________________________________________________________________
+### Resources used:<br>
+https://youtu.be/PocJ5jXv8No?si=1ltczRvCCBnQfvKT (dynamic arrays in c++) <br>
+https://youtu.be/18r4P6UNSYk?si=b2npRYqDpCkELIpj (initialize vectors with user input) <br>
+https://stackoverflow.com/questions/61988818/c-get-reference-of-object-inside-vector (reference objects in vector) <br>
+
+I also utilized both gemini and chatGPT to answer conceptual questions such as: <br>
+**emplace_back** <br>
+**this->** 
+
 
